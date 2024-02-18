@@ -5,10 +5,12 @@ You can use it too if you want.
 
 ## Includes
 
--   Nuxt.js
--   Tailwind CSS
--   Shadcn-vue
--   Prisma
+-   [Nuxt](https://nuxt.com/) as the framework
+-   [Tailwind](https://tailwindcss.com/) for styling
+-   [Shadcn-Vue](https://www.shadcn-vue.com/) for the UI
+-   [Prisma](https://www.prisma.io/) for the database
+-   [prettier](https://prettier.io/) for code formatting
+-   [pinia](https://pinia.vuejs.org/) for state management
 
 ## Getting Started
 
