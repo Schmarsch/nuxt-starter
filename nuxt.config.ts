@@ -13,4 +13,7 @@ export default defineNuxtConfig({
 		 */
 		componentDir: './components/ui',
 	},
+	eslint: {
+		exclude: ['./tailwind.config.ts'],
+	},
 });
