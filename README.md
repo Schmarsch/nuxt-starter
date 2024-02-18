@@ -1,75 +1,17 @@
-# Nuxt 3 Minimal Starter
+# Nuxt Starter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This Project is a starter template for me to use when starting a new project with Nuxt.js.
+You can use it too if you want.
 
-## Setup
+## Includes
 
-Make sure to install the dependencies:
+-   Nuxt.js
+-   Tailwind CSS
+-   Shadcn-vue
+-   Prisma
 
-```bash
-# npm
-npm install
+## Getting Started
 
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+1. Clone the repository
+2. Run `npm install` or the install command of your package manager
+3. Go nuts
