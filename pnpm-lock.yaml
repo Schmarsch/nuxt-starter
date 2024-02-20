@@ -27,8 +27,8 @@ dependencies:
     specifier: ^3.2.5
     version: 3.2.5
   radix-vue:
-    specifier: ^1.4.6
-    version: 1.4.6(vue@3.4.19)
+    specifier: ^1.4.7
+    version: 1.4.7(vue@3.4.19)
   tailwind-merge:
     specifier: ^2.2.1
     version: 2.2.1
@@ -7009,8 +7009,8 @@ packages:
     resolution: {integrity: sha512-kJt5qhMxoszgU/62PLP1CJytzd2NKetjSRnyuj31fDd3Rlcz3fzlFdFLD1SItunPwyqEOkca6GbV612BWfaBag==}
     dev: false
 
-  /radix-vue@1.4.6(vue@3.4.19):
-    resolution: {integrity: sha512-PWM4A0xyQV4bu8R+DfAGGEN4zRTM0Qer5rH+gLnQjjsz0kjteZhVOS0KUkpyrKVPprWFYRNqyzpjjkcYBDrlfQ==}
+  /radix-vue@1.4.7(vue@3.4.19):
+    resolution: {integrity: sha512-wNfUCaghG2GWiPqCDK/Vp0WJPsEjXSVOwdiSMnYlKnSK3DQpCf4vJg9b67SA89xGB+YVQnLEqewSUn0G5scVSg==}
     dependencies:
       '@floating-ui/dom': 1.6.3
       '@floating-ui/vue': 1.0.6(vue@3.4.19)
