@@ -1,37 +1,37 @@
 {
-    "name": "nuxt-app",
-    "private": true,
-    "type": "module",
-    "scripts": {
-        "build": "nuxt build",
-        "dev": "nuxt dev",
-        "generate": "nuxt generate",
-        "preview": "nuxt preview",
-        "postinstall": "nuxt prepare",
-        "format": "prettier --write .",
-        "lint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore ."
-    },
-    "dependencies": {
-        "@nuxtjs/eslint-module": "^4.1.0",
-        "@pinia/nuxt": "^0.5.1",
-        "class-variance-authority": "^0.7.0",
-        "clsx": "^2.1.1",
-        "lucide-vue-next": "^0.331.0",
-        "nuxt": "^3.11.2",
-        "prettier": "^3.2.5",
-        "radix-vue": "^1.7.4",
-        "tailwind-merge": "^2.3.0",
-        "tailwindcss-animate": "^1.0.7",
-        "vue": "^3.4.27",
-        "vue-router": "^4.3.2"
-    },
-    "devDependencies": {
-        "@nuxt/eslint-config": "^0.2.0",
-        "@nuxtjs/eslint-config-typescript": "^12.1.0",
-        "@nuxtjs/tailwindcss": "^6.12.0",
-        "eslint": "^8.57.0",
-        "eslint-config-prettier": "^9.1.0",
-        "prisma": "^5.13.0",
-        "shadcn-nuxt": "^0.9.0"
-    }
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "format": "prettier --write .",
+    "lint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore ."
+  },
+  "dependencies": {
+    "@nuxtjs/eslint-module": "^4.1.0",
+    "@pinia/nuxt": "^0.5.1",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.1",
+    "lucide-vue-next": "^0.331.0",
+    "nuxt": "^3.11.2",
+    "prettier": "^3.2.5",
+    "radix-vue": "^1.7.4",
+    "tailwind-merge": "^2.3.0",
+    "tailwindcss-animate": "^1.0.7",
+    "vue": "^3.4.27",
+    "vue-router": "^4.3.2"
+  },
+  "devDependencies": {
+    "@nuxt/eslint-config": "^0.2.0",
+    "@nuxtjs/eslint-config-typescript": "^12.1.0",
+    "@nuxtjs/tailwindcss": "^6.12.0",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prisma": "^5.13.0",
+    "shadcn-nuxt": "^0.9.0"
+  }
 }
