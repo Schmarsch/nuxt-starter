@@ -18,8 +18,8 @@ dependencies:
     specifier: ^2.1.1
     version: 2.1.1
   lucide-vue-next:
-    specifier: ^0.331.0
-    version: 0.331.0(vue@3.4.27)
+    specifier: ^0.378.0
+    version: 0.378.0(vue@3.4.27)
   nuxt:
     specifier: ^3.11.2
     version: 3.11.2(@opentelemetry/api@1.8.0)(@unocss/reset@0.60.0)(floating-vue@5.2.2)(typescript@5.4.5)(unocss@0.60.0)(vite@5.2.11)
@@ -4704,8 +4704,8 @@ packages:
     dependencies:
       yallist: 3.1.1
 
-  /lucide-vue-next@0.331.0(vue@3.4.27):
-    resolution: {integrity: sha512-xMEmEdyuYKVxTwCI94adtWOmjmsG9UZBlEVqJnorxJy8QTBq68ZC5zADXRHN1gehvVaYj9g+H1vdwdVEo3uj7w==}
+  /lucide-vue-next@0.378.0(vue@3.4.27):
+    resolution: {integrity: sha512-tz2IUhdOf1q0x1mPOTZEJZYfXVLreQorO2ax4M+CxGOTgCNgXH3cljIWWfJ4jUvxn5rbkFlGPbl9EIfIelZBRA==}
     peerDependencies:
       vue: '>=3.0.1'
     dependencies:
