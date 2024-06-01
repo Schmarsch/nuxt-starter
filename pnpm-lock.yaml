@@ -27,8 +27,8 @@ dependencies:
     specifier: ^0.6.10
     version: 0.6.10(nuxt@3.11.2)(vite@5.2.11)(vue@3.4.27)
   prettier:
-    specifier: ^3.2.5
-    version: 3.2.5
+    specifier: ^3.3.0
+    version: 3.3.0
   radix-vue:
     specifier: ^1.7.4
     version: 1.7.4(vue@3.4.27)
@@ -6050,8 +6050,8 @@ packages:
       picocolors: 1.0.0
       source-map-js: 1.2.0
 
-  /prettier@3.2.5:
-    resolution: {integrity: sha512-3/GWa9aOC0YeD7LUfvOG2NiDyhOWRvt1k+rcKhOuYnMY24iiCphgneUfJDyFXd6rZCAnuLBv6UeAULtrhT/F4A==}
+  /prettier@3.3.0:
+    resolution: {integrity: sha512-J9odKxERhCQ10OC2yb93583f6UnYutOeiV5i0zEDS7UGTdUt0u+y8erxl3lBKvwo/JHyyoEdXjwp4dke9oyZ/g==}
     engines: {node: '>=14'}
     hasBin: true
     dev: false
